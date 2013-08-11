@@ -1,0 +1,14 @@
+{
+    "author": "Brian Schneider",
+    "name": "Web Workers Demo",
+    "description": "Integrating Web Workers in AngularJS",
+    "version": "0.0.1",
+    "homepage": "https://github.com/digitalbs/webworkers-in-angularjs",
+    "main": "./release/angular-webworkers.min.js",
+    "dependencies": {
+        "angular": ">= 1.0.7"
+    },
+    "devDependencies": {
+        "angular-mocks": "~1.0.5"
+    }
+}
